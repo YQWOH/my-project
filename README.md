@@ -1,2 +1,2 @@
-# my-project
-This is My Project repository.
+# My Project
+This project helps me understand how to use Github.
